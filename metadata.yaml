@@ -1,0 +1,32 @@
+_repo: Elmer-Gantry_72609
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lewis, Sinclair
+    aliases:
+    - Lewis, Harry Sinclair
+    - Graham, Tom
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '278'
+    url: http://www.gutenberg.org/2009/agents/278
+    wikipedia: https://en.wikipedia.org/wiki/Sinclair_Lewis
+description: ''
+gutenberg_issued: '2024-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72609'
+language: en
+pgterms:marc905: 20240102092834lewis
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Al Haines, Mark Akrigg, Cindy Beyer & the online Distributed Proofreaders
+  Canada team at http://www.pgdpcanada.net
+publication_note: '  $aNew York :$bHarcourt, Brace and Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Elmer Gantry
+url: http://www.gutenberg.org/ebooks/72609
